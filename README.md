@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Men haqimda
 Men frontend va fullstack dasturchiman. Asosan **Vue.js**, **Nuxt.js**, **React.js**, **Next.js** texnologiyalari bilan loyihalar ishlab chiqqanman.  
-Backend qismida esa **Node.js (Express.js)** va **FastAPI** bilan tajribam bor. Ma'lumotlar bazasi sifatida **MongoDB** va **PostgreSQL** bilan ishlaganman.
+Backend qismida esa **Node.js (Express.js)** bilan tajribam bor. Ma'lumotlar bazasi sifatida **MongoDB** va **PostgreSQL** bilan ishlaganman.
 
 ## 🚀 Tajribam
 - 🌐 CRM va ERP tizimlarini yaratish va rivojlantirish (CRUD Group, LionPrint loyihalari)
