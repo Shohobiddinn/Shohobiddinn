@@ -19,13 +19,16 @@ Backend qismida esa **Node.js (Express.js)** bilan tajribam bor. Ma'lumotlar baz
 - **Boshqa**: shadcn/ui, TailwindCSS, Zod, React Hook Form
 
 ## 🎯 Maqsadlarim
-- Middle+ va Senior darajada frontend/fullstack mutaxassisi bo'lish
+- Senior darajada frontend/fullstack mutaxassisi bo'lish
 - Katta loyihalarda jamoaviy va mustaqil ishlash ko'nikmalarini rivojlantirish
 - Xalqaro bozorga chiqib, global kompaniyalar bilan ishlash
 
 ## 📫 Muloqot uchun
 - GitHub: [@shohobiddinn](https://github.com/shohobiddinn)
-- Email: (email manzilingni xohlasang yozib qo'yamiz)
+- Email: [shohobiddinibrohimov@gmail.com](shohobiddinibrohimov@gmail.com)
+- Telegram: [@Shohobiddin6006](https://t.me/@Shohobiddin6006)
+- Instagram: [shohobiddin____](https://www.instagram.com/shohobiddin____)
+
 
 ---
 
