@@ -19,7 +19,6 @@ Backend qismida esa **Node.js (Express.js)** bilan tajribam bor. Ma'lumotlar baz
 - **Boshqa**: shadcn/ui, TailwindCSS, Zod, React Hook Form
 
 ## 🎯 Maqsadlarim
-- Senior darajada frontend/fullstack mutaxassisi bo'lish
 - Katta loyihalarda jamoaviy va mustaqil ishlash ko'nikmalarini rivojlantirish
 - Xalqaro bozorga chiqib, global kompaniyalar bilan ishlash
 
