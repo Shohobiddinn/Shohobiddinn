@@ -12,7 +12,7 @@ Backend qismida esa **Node.js (Express.js)** bilan tajribam bor. Ma'lumotlar baz
 - ☎️ VoIP asosida avtomatik qo‘ng‘iroq tizimi (SIP, WebRTC, IVR) yaratish konsepsiyasi ustida ishlash
 
 ## 🛠️ Texnologiyalar
-- **Frontend**: Vue 3, Nuxt 3, React, Next.js (App Router)
+- **Frontend**: Vue 3, Nuxt 3, React, Next.js 
 - **Backend**: Node.js (Express.js),
 - **Ma'lumotlar bazasi**: MongoDB (Atlas), PostgreSQL
 - **DevOps**: Ubuntu Server, PM2, Nginx
