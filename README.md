@@ -26,7 +26,7 @@ Backend qismida esa **Node.js (Express.js)** bilan tajribam bor. Ma'lumotlar baz
 - GitHub: [@shohobiddinn](https://github.com/shohobiddinn)
 - Email: shohobiddinibrohimov@gmail.com
 - Telegram: @Shohobiddin6006
-- Instagram: [shohobiddin____](https://www.instagram.com/shohobiddin____)
+- Instagram: [shohobiddin_ibrohimov](https://www.instagram.com/shohobiddin_ibrohimov/)
 
 
 ---
